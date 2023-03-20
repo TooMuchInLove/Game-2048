@@ -1,4 +1,4 @@
-# -*- coding: utf-8 -*-
+### -*- coding: utf-8 -*-
 
 Файл config.py
     Определяются константные значения
@@ -11,3 +11,5 @@
 
 Файл database.py
     База данных для записи результатов
+
+![](https://github.com/TooMuchInLove/Game-2048/blob/main/gif2048.gif)
